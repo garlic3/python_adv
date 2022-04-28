@@ -1,0 +1,4 @@
+
+*.csv
+py_adv_class/pandasdata/raw_data_urls.txt
+py_adv_class/pandasdata/gapminder.tsv
